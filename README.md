@@ -1,5 +1,5 @@
 # Frontend Mentor -  Testimonials Grid Solution🔗
-This is my solution to the [Testimonials Grid challenge](https://) on Frontend Mentor.
+This is my solution to the [Testimonials Grid challenge](https://testimonial-grid-omega.vercel.app/) on Frontend Mentor.
 
 ## Overview ✨
 
@@ -40,7 +40,7 @@ The challenge was to build a responsive grid of testimonials that closely matche
 
 
 ## 🔗 Links
-- **🌐 Live Site URL**: [Testimonials Grid challenge](https://)
+- **🌐 Live Site URL**:  [Testimonials Grid challenge](https://testimonial-grid-omega.vercel.app/) 
 
 ### **👥 Solved by M Olaya** 
 <a href="https://www.linkedin.com/in/molaya">LinkedIn</a> 
